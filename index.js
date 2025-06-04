@@ -26,9 +26,8 @@ const writeLogToFile = async (log) => {
 };
 
 // Middleware to log request details
-const startTime = Date.now();
-const duration = Date.now() - startTime;
 app.use(async (req, res, next) => {
+  const startTime = Date.now();
 
   res.on('finish', async () => {
     const duration = Date.now() - startTime;
