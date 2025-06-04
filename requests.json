@@ -1,0 +1,22 @@
+[
+  {
+    "success": true,
+    "name": "Prem Chavan",
+    "method": "GET",
+    "url": "/api/data",
+    "ip": "::1",
+    "status": 200,
+    "timeStamp": "2025-06-04T07:09:16.276Z",
+    "duration": "2406ms"
+  },
+  {
+    "success": true,
+    "name": "Prem Chavan",
+    "method": "POST",
+    "url": "/api/data",
+    "ip": "::1",
+    "status": 200,
+    "timeStamp": "2025-06-04T07:10:19.840Z",
+    "duration": "63385ms"
+  }
+]
