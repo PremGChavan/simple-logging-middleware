@@ -35,6 +35,7 @@ app.use(async (req, res, next) => {
     const logEntry = {
       success: true,
       name: "Prem Chavan",
+      message: req.body.message || "Request processed",
       method: req.method,
       url: req.originalUrl,
       ip: req.ip,

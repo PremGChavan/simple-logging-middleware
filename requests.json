@@ -18,5 +18,36 @@
     "status": 200,
     "timeStamp": "2025-06-04T07:10:19.840Z",
     "duration": "63385ms"
+  },
+  {
+    "success": true,
+    "name": "Prem Chavan",
+    "method": "GET",
+    "url": "/api/data",
+    "ip": "::1",
+    "status": 200,
+    "timeStamp": "2025-06-04T07:24:53.446Z",
+    "duration": "3ms"
+  },
+  {
+    "success": true,
+    "name": "Prem Chavan",
+    "method": "POST",
+    "url": "/api/data",
+    "ip": "::1",
+    "status": 200,
+    "timeStamp": "2025-06-04T07:25:36.417Z",
+    "duration": "3ms"
+  },
+  {
+    "success": true,
+    "name": "Prem Chavan",
+    "message": "Hello to POST API!",
+    "method": "POST",
+    "url": "/api/data",
+    "ip": "::1",
+    "status": 200,
+    "timeStamp": "2025-06-04T07:27:29.902Z",
+    "duration": "2ms"
   }
 ]
